@@ -3,8 +3,6 @@
 🚀 SurvivalVerse: Hunt for Glory  
 A dynamic survival game where you fight, score, and evolve. Defeat enemies, and etch your legacy on the blockchain.
 
-📌 Problem Statement  
-Problem Statement 2 – Unleash Blockchain Play with Monad  
 
 🎯 Objective  
 SurvivalVerse is a real-time survival game built on Monad blockchain where players:
@@ -13,14 +11,6 @@ SurvivalVerse is a real-time survival game built on Monad blockchain where playe
 - Have their progress stored as permanent game history using blockchain
 - The contract is setup through the player maximum levels and maximum orbs reached till now can also be fetched
 
-🧠 Team & Approach
-Team Name:
-Codez
-Team Members:
-Member 1: Vanshika Varshney 
-Member 2: Shubhangi Singh
-Member 3: Nishank Chauhan
-Member 4: Ashish Saini
 
 Approach:
 - Chose this challenge to redefine gaming with real-time interaction + blockchain rewards
@@ -51,10 +41,7 @@ Approach:
 📽 Demo & Deliverables
 Demo Video Link: https://www.loom.com/share/61c986be1f2e47859983f2206ec8c7eb?sid=af33fb65-acbd-4875-a5cb-df7d9c3c3298
 
-✅✅Tasks & Bonus Checklist
-✅All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form 
-✅ All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form 
-✅ All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form 
+
 
 🧪 How to Run the Project
 Requirements:
