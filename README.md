@@ -1,3 +1,13 @@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Project Repository:
+My complete project is available in the following GitHub repository:
+🔗 https://github.com/Cod-e-z/SurvivalVerse
+
+You can explore the codebase, assets, and all related files directly from there.
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
 ![432143662-a1493b84-e4e2-456e-a791-ce35ee2bcf2f](https://github.com/user-attachments/assets/3371da0d-4227-48fb-b302-722c40f51992)
 
 🚀 SurvivalVerse: Hunt for Glory  
