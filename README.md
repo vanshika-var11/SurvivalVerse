@@ -1,5 +1,6 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Project Repository:
+This project was developed as part of a hackathon.
 My complete project is available in the following GitHub repository:
 🔗 https://github.com/Cod-e-z/SurvivalVerse
 
